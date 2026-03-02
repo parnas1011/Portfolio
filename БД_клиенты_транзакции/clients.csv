@@ -1,0 +1,2001 @@
+client_id,registration_date,segment,region
+1,2023-04-13,mass,Siberia
+2,2024-03-11,mass,Saint Petersburg
+3,2023-09-28,mass,Siberia
+4,2023-04-17,mass,Saint Petersburg
+5,2023-03-13,mass,Moscow
+6,2024-12-01,mass,Siberia
+7,2023-01-21,mass,Volga
+8,2024-09-06,mass,Volga
+9,2023-05-02,premium,Moscow
+10,2024-04-11,mass,Saint Petersburg
+11,2023-08-03,mass,Moscow
+12,2023-11-27,mass,Volga
+13,2024-04-03,premium,Volga
+14,2023-03-29,mass,Siberia
+15,2024-01-08,mass,Volga
+16,2023-04-10,premium,Siberia
+17,2024-10-25,premium,Siberia
+18,2023-05-11,mass,Moscow
+19,2024-10-23,mass,Saint Petersburg
+20,2023-11-05,mass,Siberia
+21,2023-12-10,premium,Siberia
+22,2024-05-06,mass,Saint Petersburg
+23,2024-02-18,mass,Volga
+24,2024-01-21,premium,Moscow
+25,2023-07-11,mass,Saint Petersburg
+26,2023-10-04,mass,Siberia
+27,2023-06-10,mass,Siberia
+28,2024-04-04,mass,Siberia
+29,2023-11-10,mass,Moscow
+30,2023-01-22,mass,Moscow
+31,2023-09-10,mass,Siberia
+32,2024-07-14,mass,Siberia
+33,2024-04-19,premium,Moscow
+34,2023-02-28,mass,Siberia
+35,2024-05-25,premium,Saint Petersburg
+36,2024-11-12,mass,Siberia
+37,2024-04-20,premium,Volga
+38,2024-11-30,mass,Moscow
+39,2023-07-09,mass,Moscow
+40,2024-11-17,mass,Siberia
+41,2024-07-16,premium,Siberia
+42,2024-07-20,mass,Siberia
+43,2023-09-01,mass,Volga
+44,2024-05-19,mass,Volga
+45,2023-05-11,premium,Volga
+46,2024-04-29,mass,Saint Petersburg
+47,2024-10-08,mass,Saint Petersburg
+48,2023-01-21,mass,Saint Petersburg
+49,2023-06-16,premium,Moscow
+50,2023-10-01,mass,Siberia
+51,2024-01-23,mass,Moscow
+52,2024-08-23,mass,Volga
+53,2023-11-12,mass,Siberia
+54,2023-01-14,mass,Siberia
+55,2023-08-30,mass,Saint Petersburg
+56,2023-12-12,mass,Moscow
+57,2024-07-18,mass,Moscow
+58,2023-12-06,mass,Saint Petersburg
+59,2023-04-02,mass,Moscow
+60,2024-01-02,mass,Siberia
+61,2024-03-30,mass,Volga
+62,2024-03-03,mass,Volga
+63,2024-05-23,mass,Siberia
+64,2023-02-04,mass,Moscow
+65,2023-07-25,mass,Volga
+66,2023-03-22,mass,Volga
+67,2024-07-15,mass,Moscow
+68,2024-01-23,premium,Siberia
+69,2023-01-02,mass,Moscow
+70,2024-01-25,mass,Volga
+71,2024-07-19,mass,Volga
+72,2023-04-16,mass,Moscow
+73,2024-04-21,mass,Volga
+74,2024-12-03,mass,Siberia
+75,2024-02-06,mass,Volga
+76,2024-12-30,mass,Saint Petersburg
+77,2024-07-09,mass,Volga
+78,2023-06-11,mass,Moscow
+79,2023-07-21,premium,Moscow
+80,2023-09-27,mass,Moscow
+81,2023-09-28,premium,Volga
+82,2024-03-31,mass,Volga
+83,2024-04-06,mass,Volga
+84,2024-12-27,mass,Volga
+85,2023-09-09,mass,Moscow
+86,2024-12-02,premium,Saint Petersburg
+87,2023-10-23,mass,Moscow
+88,2024-12-25,premium,Moscow
+89,2024-12-20,mass,Moscow
+90,2023-12-04,premium,Saint Petersburg
+91,2023-02-22,mass,Moscow
+92,2023-08-05,mass,Moscow
+93,2023-07-07,mass,Moscow
+94,2024-01-15,mass,Moscow
+95,2024-05-07,mass,Volga
+96,2023-02-10,mass,Siberia
+97,2023-06-06,premium,Volga
+98,2023-01-15,mass,Saint Petersburg
+99,2023-03-06,mass,Moscow
+100,2024-06-04,mass,Siberia
+101,2023-12-10,mass,Moscow
+102,2023-05-09,mass,Moscow
+103,2024-10-09,mass,Moscow
+104,2024-04-16,mass,Moscow
+105,2023-03-04,mass,Moscow
+106,2023-05-19,mass,Saint Petersburg
+107,2024-05-13,mass,Siberia
+108,2024-08-15,mass,Moscow
+109,2024-01-27,mass,Moscow
+110,2024-11-05,mass,Volga
+111,2024-02-23,mass,Moscow
+112,2023-10-16,mass,Moscow
+113,2024-01-14,premium,Volga
+114,2024-05-04,mass,Moscow
+115,2023-08-19,premium,Moscow
+116,2023-02-10,mass,Saint Petersburg
+117,2023-01-28,mass,Moscow
+118,2023-05-15,mass,Siberia
+119,2023-07-20,premium,Volga
+120,2023-02-02,mass,Moscow
+121,2023-02-17,premium,Siberia
+122,2024-05-17,premium,Saint Petersburg
+123,2024-02-11,mass,Moscow
+124,2024-07-27,mass,Siberia
+125,2024-12-28,mass,Moscow
+126,2023-04-09,mass,Saint Petersburg
+127,2024-11-14,premium,Moscow
+128,2024-12-26,premium,Saint Petersburg
+129,2024-06-30,mass,Moscow
+130,2024-09-04,mass,Volga
+131,2024-04-06,mass,Moscow
+132,2024-10-04,mass,Saint Petersburg
+133,2023-01-05,premium,Saint Petersburg
+134,2023-08-06,mass,Siberia
+135,2024-05-17,mass,Siberia
+136,2024-02-02,mass,Siberia
+137,2024-01-28,mass,Siberia
+138,2023-07-26,mass,Volga
+139,2023-01-15,mass,Moscow
+140,2024-07-07,mass,Saint Petersburg
+141,2024-04-05,mass,Volga
+142,2024-11-21,premium,Volga
+143,2024-07-28,mass,Volga
+144,2023-08-29,mass,Saint Petersburg
+145,2024-07-17,mass,Moscow
+146,2023-04-06,mass,Saint Petersburg
+147,2024-04-29,mass,Siberia
+148,2024-02-11,mass,Saint Petersburg
+149,2023-08-19,mass,Saint Petersburg
+150,2024-10-16,mass,Volga
+151,2023-06-20,mass,Saint Petersburg
+152,2024-06-24,mass,Volga
+153,2023-02-05,premium,Saint Petersburg
+154,2024-06-08,mass,Moscow
+155,2023-06-09,mass,Saint Petersburg
+156,2024-11-29,mass,Siberia
+157,2023-08-31,mass,Moscow
+158,2023-03-27,mass,Moscow
+159,2024-07-31,mass,Volga
+160,2024-11-12,premium,Moscow
+161,2024-07-10,mass,Siberia
+162,2024-07-27,mass,Siberia
+163,2024-10-07,mass,Saint Petersburg
+164,2023-01-28,mass,Siberia
+165,2024-09-11,mass,Moscow
+166,2024-07-09,mass,Siberia
+167,2023-12-06,mass,Saint Petersburg
+168,2023-11-27,premium,Siberia
+169,2024-10-01,mass,Moscow
+170,2024-05-20,mass,Siberia
+171,2023-12-14,mass,Moscow
+172,2024-04-17,mass,Moscow
+173,2023-08-19,mass,Moscow
+174,2023-07-09,mass,Moscow
+175,2023-08-13,mass,Volga
+176,2024-01-20,premium,Moscow
+177,2024-01-12,mass,Volga
+178,2023-10-10,mass,Volga
+179,2024-09-24,premium,Siberia
+180,2024-09-19,mass,Moscow
+181,2023-09-16,mass,Saint Petersburg
+182,2023-12-25,mass,Siberia
+183,2024-12-10,mass,Saint Petersburg
+184,2024-03-31,mass,Moscow
+185,2024-02-15,premium,Siberia
+186,2024-10-10,mass,Volga
+187,2023-11-14,mass,Siberia
+188,2024-11-07,mass,Moscow
+189,2023-08-13,mass,Siberia
+190,2023-08-22,mass,Moscow
+191,2024-11-14,mass,Moscow
+192,2024-10-25,premium,Volga
+193,2024-01-09,mass,Moscow
+194,2024-11-02,mass,Moscow
+195,2024-08-30,mass,Moscow
+196,2024-04-16,mass,Volga
+197,2023-08-21,mass,Siberia
+198,2024-11-22,mass,Siberia
+199,2023-04-23,mass,Siberia
+200,2024-05-11,mass,Moscow
+201,2024-03-17,mass,Saint Petersburg
+202,2024-07-17,mass,Saint Petersburg
+203,2023-09-25,premium,Moscow
+204,2024-05-24,mass,Saint Petersburg
+205,2024-01-21,mass,Volga
+206,2024-01-22,mass,Moscow
+207,2023-04-23,premium,Moscow
+208,2024-09-04,premium,Moscow
+209,2024-09-16,mass,Moscow
+210,2023-03-22,premium,Volga
+211,2024-11-29,mass,Saint Petersburg
+212,2023-04-23,mass,Saint Petersburg
+213,2023-01-02,mass,Siberia
+214,2024-10-03,mass,Moscow
+215,2023-08-08,mass,Saint Petersburg
+216,2024-07-19,premium,Saint Petersburg
+217,2023-08-13,mass,Siberia
+218,2024-01-20,mass,Volga
+219,2024-02-07,mass,Siberia
+220,2024-09-29,mass,Saint Petersburg
+221,2023-05-10,mass,Volga
+222,2023-02-22,mass,Moscow
+223,2024-11-14,mass,Moscow
+224,2024-12-30,premium,Moscow
+225,2024-11-02,mass,Moscow
+226,2024-12-10,mass,Saint Petersburg
+227,2024-02-20,mass,Siberia
+228,2023-09-04,mass,Volga
+229,2024-03-14,mass,Saint Petersburg
+230,2023-07-22,mass,Saint Petersburg
+231,2023-07-03,premium,Moscow
+232,2023-05-03,mass,Moscow
+233,2024-02-05,premium,Siberia
+234,2023-10-21,premium,Saint Petersburg
+235,2023-10-07,mass,Volga
+236,2024-09-01,premium,Moscow
+237,2023-07-17,mass,Moscow
+238,2024-05-25,premium,Saint Petersburg
+239,2023-05-24,mass,Moscow
+240,2024-08-31,premium,Moscow
+241,2023-07-20,premium,Siberia
+242,2023-05-04,premium,Moscow
+243,2023-07-06,mass,Siberia
+244,2023-11-22,mass,Moscow
+245,2024-04-08,mass,Moscow
+246,2023-12-15,mass,Saint Petersburg
+247,2024-10-21,mass,Volga
+248,2024-02-07,mass,Saint Petersburg
+249,2023-12-12,mass,Siberia
+250,2024-05-25,premium,Moscow
+251,2023-05-27,mass,Siberia
+252,2023-05-28,premium,Moscow
+253,2024-12-11,mass,Siberia
+254,2024-05-03,premium,Siberia
+255,2024-10-01,premium,Volga
+256,2024-07-04,mass,Saint Petersburg
+257,2023-12-04,mass,Moscow
+258,2024-10-02,mass,Moscow
+259,2024-04-17,mass,Volga
+260,2023-05-31,mass,Saint Petersburg
+261,2024-02-19,mass,Siberia
+262,2023-10-25,mass,Moscow
+263,2024-09-02,mass,Moscow
+264,2023-09-20,mass,Moscow
+265,2023-05-24,mass,Volga
+266,2023-12-12,mass,Siberia
+267,2024-09-15,premium,Volga
+268,2024-07-25,mass,Moscow
+269,2023-01-02,premium,Siberia
+270,2023-10-31,mass,Siberia
+271,2023-09-11,mass,Moscow
+272,2024-10-13,mass,Volga
+273,2024-03-28,mass,Volga
+274,2023-02-06,mass,Volga
+275,2023-06-09,mass,Siberia
+276,2023-01-09,mass,Moscow
+277,2023-08-21,mass,Moscow
+278,2023-04-09,mass,Volga
+279,2024-10-20,mass,Moscow
+280,2023-07-27,mass,Siberia
+281,2023-05-11,mass,Siberia
+282,2024-02-08,mass,Siberia
+283,2023-06-01,mass,Volga
+284,2023-02-23,premium,Moscow
+285,2023-04-30,mass,Moscow
+286,2024-11-03,mass,Moscow
+287,2024-09-19,premium,Saint Petersburg
+288,2024-08-09,mass,Moscow
+289,2024-09-16,mass,Moscow
+290,2024-02-24,mass,Volga
+291,2024-02-26,mass,Volga
+292,2023-04-14,mass,Moscow
+293,2023-09-11,mass,Saint Petersburg
+294,2023-08-15,mass,Volga
+295,2023-04-22,mass,Moscow
+296,2024-05-24,premium,Moscow
+297,2024-04-17,premium,Moscow
+298,2023-04-09,mass,Siberia
+299,2023-06-02,mass,Moscow
+300,2023-12-04,mass,Volga
+301,2024-12-06,mass,Saint Petersburg
+302,2023-06-12,mass,Saint Petersburg
+303,2024-12-20,mass,Moscow
+304,2024-11-11,premium,Saint Petersburg
+305,2023-06-10,mass,Siberia
+306,2024-08-02,mass,Siberia
+307,2024-02-02,mass,Siberia
+308,2023-10-04,mass,Siberia
+309,2024-05-18,premium,Volga
+310,2024-01-27,mass,Volga
+311,2023-05-15,mass,Siberia
+312,2023-07-14,mass,Moscow
+313,2024-02-05,mass,Moscow
+314,2024-10-01,mass,Moscow
+315,2023-02-02,mass,Siberia
+316,2024-11-18,mass,Saint Petersburg
+317,2024-04-04,mass,Saint Petersburg
+318,2024-04-14,mass,Volga
+319,2024-01-10,mass,Volga
+320,2023-01-22,mass,Volga
+321,2024-10-31,mass,Moscow
+322,2023-02-07,mass,Siberia
+323,2023-08-18,premium,Moscow
+324,2023-12-31,premium,Moscow
+325,2024-07-16,premium,Moscow
+326,2024-03-13,mass,Moscow
+327,2023-10-10,mass,Saint Petersburg
+328,2023-01-27,mass,Volga
+329,2023-08-14,mass,Moscow
+330,2023-10-04,premium,Siberia
+331,2024-08-31,mass,Saint Petersburg
+332,2023-10-11,mass,Moscow
+333,2024-04-25,mass,Saint Petersburg
+334,2024-03-28,mass,Moscow
+335,2024-10-20,mass,Siberia
+336,2024-05-30,mass,Saint Petersburg
+337,2024-06-30,mass,Moscow
+338,2023-07-11,mass,Moscow
+339,2023-02-18,mass,Saint Petersburg
+340,2024-05-26,mass,Volga
+341,2023-01-17,premium,Moscow
+342,2023-06-21,premium,Siberia
+343,2023-08-08,mass,Siberia
+344,2023-06-07,mass,Volga
+345,2024-04-21,mass,Volga
+346,2023-02-15,mass,Siberia
+347,2024-01-08,mass,Siberia
+348,2024-06-01,premium,Volga
+349,2023-04-09,mass,Saint Petersburg
+350,2023-02-06,premium,Moscow
+351,2023-10-07,mass,Moscow
+352,2023-12-15,mass,Volga
+353,2024-05-11,mass,Volga
+354,2023-10-29,premium,Moscow
+355,2023-06-30,mass,Siberia
+356,2024-08-29,mass,Saint Petersburg
+357,2023-04-09,mass,Moscow
+358,2024-11-30,mass,Volga
+359,2023-04-26,mass,Moscow
+360,2023-07-10,mass,Moscow
+361,2023-09-10,mass,Siberia
+362,2023-06-10,mass,Siberia
+363,2023-09-13,mass,Moscow
+364,2023-11-19,mass,Siberia
+365,2023-05-08,mass,Saint Petersburg
+366,2023-01-18,mass,Moscow
+367,2024-07-19,mass,Moscow
+368,2024-07-23,mass,Siberia
+369,2023-11-19,premium,Moscow
+370,2024-11-16,mass,Volga
+371,2024-09-17,mass,Volga
+372,2023-10-15,mass,Volga
+373,2024-10-24,mass,Moscow
+374,2024-09-30,mass,Volga
+375,2023-06-04,mass,Saint Petersburg
+376,2024-05-04,mass,Moscow
+377,2024-01-21,mass,Moscow
+378,2023-04-14,mass,Moscow
+379,2024-01-28,mass,Siberia
+380,2023-09-03,mass,Saint Petersburg
+381,2023-06-25,mass,Moscow
+382,2023-02-08,mass,Siberia
+383,2024-04-21,mass,Moscow
+384,2024-11-12,premium,Siberia
+385,2024-06-21,mass,Saint Petersburg
+386,2024-02-12,mass,Volga
+387,2024-06-08,mass,Volga
+388,2024-05-20,mass,Saint Petersburg
+389,2023-02-05,mass,Saint Petersburg
+390,2024-11-15,mass,Saint Petersburg
+391,2023-01-20,mass,Volga
+392,2023-11-17,mass,Moscow
+393,2024-05-26,mass,Moscow
+394,2024-02-04,mass,Moscow
+395,2024-10-15,mass,Saint Petersburg
+396,2024-04-15,premium,Saint Petersburg
+397,2023-05-23,mass,Volga
+398,2023-04-02,mass,Moscow
+399,2023-12-20,premium,Saint Petersburg
+400,2024-12-27,mass,Volga
+401,2023-02-20,mass,Volga
+402,2024-10-26,mass,Saint Petersburg
+403,2024-11-28,premium,Saint Petersburg
+404,2024-07-28,mass,Moscow
+405,2023-07-09,mass,Volga
+406,2023-05-05,mass,Moscow
+407,2023-05-30,premium,Volga
+408,2023-11-10,mass,Siberia
+409,2024-07-23,mass,Saint Petersburg
+410,2023-12-08,mass,Moscow
+411,2023-11-01,mass,Saint Petersburg
+412,2024-11-22,mass,Saint Petersburg
+413,2024-11-12,premium,Moscow
+414,2023-02-23,mass,Siberia
+415,2024-03-19,mass,Volga
+416,2024-09-04,mass,Siberia
+417,2023-09-21,premium,Siberia
+418,2023-02-22,mass,Moscow
+419,2024-07-25,mass,Saint Petersburg
+420,2024-09-11,premium,Moscow
+421,2023-01-05,premium,Siberia
+422,2023-04-13,premium,Volga
+423,2023-07-15,premium,Siberia
+424,2023-12-16,mass,Moscow
+425,2023-02-16,mass,Saint Petersburg
+426,2024-10-17,mass,Siberia
+427,2023-09-26,premium,Saint Petersburg
+428,2024-01-05,mass,Volga
+429,2024-09-27,mass,Volga
+430,2023-04-16,mass,Siberia
+431,2024-10-31,mass,Saint Petersburg
+432,2024-10-20,mass,Moscow
+433,2024-10-18,premium,Moscow
+434,2023-04-30,premium,Saint Petersburg
+435,2024-08-26,mass,Saint Petersburg
+436,2023-02-27,mass,Siberia
+437,2023-12-12,mass,Siberia
+438,2024-04-18,mass,Moscow
+439,2023-04-27,premium,Saint Petersburg
+440,2023-05-07,mass,Moscow
+441,2024-01-28,mass,Moscow
+442,2024-10-02,premium,Volga
+443,2023-02-27,mass,Moscow
+444,2024-09-25,mass,Saint Petersburg
+445,2024-05-27,mass,Moscow
+446,2023-04-06,mass,Volga
+447,2024-09-29,mass,Siberia
+448,2023-04-28,mass,Moscow
+449,2024-07-13,mass,Saint Petersburg
+450,2024-08-23,premium,Siberia
+451,2024-05-02,mass,Volga
+452,2023-08-25,mass,Moscow
+453,2023-09-29,mass,Volga
+454,2023-07-08,mass,Volga
+455,2024-12-04,mass,Volga
+456,2024-03-22,mass,Siberia
+457,2024-08-03,mass,Siberia
+458,2023-09-04,premium,Saint Petersburg
+459,2023-03-17,mass,Siberia
+460,2023-06-03,mass,Saint Petersburg
+461,2024-10-17,premium,Siberia
+462,2024-03-10,mass,Saint Petersburg
+463,2023-03-27,mass,Siberia
+464,2024-11-27,mass,Volga
+465,2023-10-12,mass,Moscow
+466,2023-08-08,mass,Volga
+467,2023-03-10,mass,Saint Petersburg
+468,2023-02-16,mass,Volga
+469,2023-04-04,mass,Saint Petersburg
+470,2024-03-28,mass,Saint Petersburg
+471,2023-07-23,mass,Volga
+472,2023-08-06,mass,Moscow
+473,2024-04-18,mass,Volga
+474,2024-03-07,mass,Saint Petersburg
+475,2023-12-07,premium,Saint Petersburg
+476,2024-07-04,mass,Moscow
+477,2024-09-03,mass,Siberia
+478,2023-10-16,mass,Moscow
+479,2023-09-11,mass,Moscow
+480,2023-12-23,premium,Moscow
+481,2023-01-23,premium,Moscow
+482,2024-06-05,mass,Volga
+483,2023-04-10,mass,Volga
+484,2023-06-29,mass,Saint Petersburg
+485,2023-08-11,premium,Siberia
+486,2024-10-20,mass,Moscow
+487,2024-03-17,mass,Siberia
+488,2024-08-30,mass,Volga
+489,2023-11-21,mass,Volga
+490,2024-05-30,mass,Saint Petersburg
+491,2023-01-16,mass,Siberia
+492,2023-12-02,mass,Moscow
+493,2023-09-15,mass,Volga
+494,2024-05-11,mass,Moscow
+495,2023-06-09,mass,Siberia
+496,2024-04-19,mass,Siberia
+497,2024-10-25,mass,Siberia
+498,2024-11-20,mass,Moscow
+499,2024-11-05,mass,Volga
+500,2024-01-15,mass,Moscow
+501,2024-06-28,mass,Siberia
+502,2024-11-21,mass,Moscow
+503,2024-03-02,mass,Moscow
+504,2024-09-04,premium,Saint Petersburg
+505,2023-09-25,mass,Saint Petersburg
+506,2024-07-30,premium,Moscow
+507,2024-02-21,mass,Moscow
+508,2023-06-17,mass,Saint Petersburg
+509,2023-02-12,mass,Siberia
+510,2024-07-09,mass,Volga
+511,2023-10-12,mass,Moscow
+512,2024-02-01,mass,Saint Petersburg
+513,2023-01-12,mass,Moscow
+514,2024-08-29,mass,Moscow
+515,2023-10-29,mass,Siberia
+516,2023-09-10,mass,Siberia
+517,2024-05-13,mass,Moscow
+518,2023-02-04,mass,Moscow
+519,2024-12-27,mass,Moscow
+520,2023-03-31,mass,Volga
+521,2024-08-27,mass,Volga
+522,2024-08-24,mass,Moscow
+523,2024-02-22,premium,Moscow
+524,2023-04-25,premium,Volga
+525,2024-09-08,mass,Volga
+526,2023-07-15,mass,Saint Petersburg
+527,2024-05-15,mass,Moscow
+528,2024-09-17,mass,Moscow
+529,2024-05-07,mass,Siberia
+530,2023-03-16,mass,Saint Petersburg
+531,2024-02-17,premium,Moscow
+532,2024-01-11,mass,Siberia
+533,2024-02-24,mass,Moscow
+534,2024-12-29,mass,Siberia
+535,2023-10-04,mass,Moscow
+536,2024-11-06,mass,Moscow
+537,2024-01-29,mass,Siberia
+538,2024-04-01,mass,Saint Petersburg
+539,2023-07-11,mass,Volga
+540,2024-11-19,premium,Saint Petersburg
+541,2023-04-09,mass,Moscow
+542,2024-07-01,mass,Siberia
+543,2023-04-06,mass,Moscow
+544,2024-10-25,premium,Volga
+545,2024-10-24,mass,Saint Petersburg
+546,2023-07-09,mass,Saint Petersburg
+547,2023-02-06,premium,Moscow
+548,2024-01-04,premium,Saint Petersburg
+549,2024-11-25,mass,Volga
+550,2024-06-08,premium,Volga
+551,2023-10-06,mass,Moscow
+552,2023-08-05,mass,Moscow
+553,2023-09-30,mass,Volga
+554,2023-03-03,mass,Volga
+555,2024-08-18,mass,Moscow
+556,2024-12-29,mass,Saint Petersburg
+557,2023-12-08,mass,Moscow
+558,2024-02-01,mass,Volga
+559,2024-11-29,mass,Moscow
+560,2023-01-19,mass,Moscow
+561,2023-06-26,mass,Siberia
+562,2024-09-03,mass,Moscow
+563,2024-01-31,mass,Saint Petersburg
+564,2024-03-20,mass,Saint Petersburg
+565,2023-08-21,premium,Moscow
+566,2023-03-17,mass,Saint Petersburg
+567,2023-09-22,mass,Saint Petersburg
+568,2024-03-30,mass,Moscow
+569,2024-12-18,mass,Siberia
+570,2024-01-19,mass,Volga
+571,2024-07-17,premium,Siberia
+572,2024-05-20,mass,Moscow
+573,2024-01-02,mass,Moscow
+574,2023-05-24,mass,Moscow
+575,2023-03-10,mass,Saint Petersburg
+576,2023-04-09,mass,Saint Petersburg
+577,2024-01-31,mass,Siberia
+578,2023-01-25,mass,Moscow
+579,2024-04-13,mass,Moscow
+580,2024-04-28,mass,Saint Petersburg
+581,2024-07-18,premium,Siberia
+582,2023-05-31,mass,Moscow
+583,2023-05-24,mass,Siberia
+584,2024-07-22,mass,Moscow
+585,2023-02-08,mass,Volga
+586,2023-04-19,premium,Volga
+587,2024-11-23,mass,Moscow
+588,2023-02-11,mass,Moscow
+589,2023-07-05,premium,Saint Petersburg
+590,2024-02-02,mass,Moscow
+591,2023-08-11,premium,Siberia
+592,2024-09-25,mass,Volga
+593,2023-05-13,mass,Siberia
+594,2023-06-12,mass,Volga
+595,2023-08-03,mass,Saint Petersburg
+596,2023-08-23,premium,Moscow
+597,2024-10-19,mass,Siberia
+598,2024-08-10,mass,Saint Petersburg
+599,2023-01-09,mass,Siberia
+600,2023-03-15,mass,Moscow
+601,2024-05-06,mass,Moscow
+602,2023-09-10,premium,Volga
+603,2023-08-18,mass,Moscow
+604,2024-06-02,mass,Volga
+605,2023-06-23,mass,Volga
+606,2024-10-14,mass,Siberia
+607,2023-06-17,mass,Siberia
+608,2023-06-19,mass,Siberia
+609,2024-01-28,premium,Volga
+610,2024-09-25,mass,Moscow
+611,2023-07-13,mass,Saint Petersburg
+612,2024-05-31,mass,Siberia
+613,2023-01-29,premium,Saint Petersburg
+614,2023-06-14,mass,Saint Petersburg
+615,2024-02-26,mass,Moscow
+616,2023-12-05,mass,Siberia
+617,2024-10-09,mass,Volga
+618,2024-05-10,mass,Moscow
+619,2023-12-31,mass,Volga
+620,2023-12-08,mass,Siberia
+621,2024-05-14,mass,Volga
+622,2024-10-18,premium,Siberia
+623,2024-05-25,premium,Siberia
+624,2023-11-23,mass,Moscow
+625,2023-08-05,mass,Volga
+626,2023-10-28,mass,Moscow
+627,2023-05-12,mass,Volga
+628,2023-03-11,mass,Volga
+629,2023-09-09,mass,Moscow
+630,2024-02-19,mass,Moscow
+631,2024-03-20,premium,Siberia
+632,2023-07-01,mass,Moscow
+633,2023-06-16,mass,Volga
+634,2023-04-01,mass,Moscow
+635,2024-12-14,mass,Moscow
+636,2024-06-14,mass,Volga
+637,2023-02-08,mass,Siberia
+638,2023-05-06,mass,Volga
+639,2024-03-26,mass,Moscow
+640,2023-06-22,mass,Siberia
+641,2024-10-14,mass,Siberia
+642,2023-08-08,premium,Siberia
+643,2024-09-29,premium,Siberia
+644,2023-02-27,premium,Siberia
+645,2024-10-21,mass,Saint Petersburg
+646,2024-04-20,mass,Moscow
+647,2024-03-31,premium,Siberia
+648,2023-12-27,mass,Moscow
+649,2023-01-01,mass,Siberia
+650,2024-01-22,mass,Moscow
+651,2023-12-14,mass,Siberia
+652,2023-07-09,premium,Siberia
+653,2024-05-19,mass,Moscow
+654,2023-07-10,mass,Moscow
+655,2024-05-22,mass,Moscow
+656,2024-01-04,mass,Siberia
+657,2024-02-13,premium,Volga
+658,2023-04-27,mass,Moscow
+659,2023-05-14,mass,Siberia
+660,2023-02-27,premium,Moscow
+661,2024-07-09,mass,Saint Petersburg
+662,2024-11-15,mass,Volga
+663,2024-11-02,mass,Moscow
+664,2023-06-22,mass,Saint Petersburg
+665,2023-05-29,mass,Moscow
+666,2023-03-21,mass,Moscow
+667,2023-08-01,mass,Moscow
+668,2023-07-22,mass,Moscow
+669,2023-08-17,premium,Siberia
+670,2024-11-06,mass,Saint Petersburg
+671,2023-08-15,mass,Saint Petersburg
+672,2024-10-20,mass,Moscow
+673,2024-06-15,mass,Moscow
+674,2024-03-16,mass,Siberia
+675,2024-02-06,premium,Volga
+676,2023-02-16,premium,Moscow
+677,2023-08-21,mass,Volga
+678,2023-11-01,premium,Siberia
+679,2024-06-09,mass,Siberia
+680,2023-05-23,mass,Saint Petersburg
+681,2024-02-19,mass,Moscow
+682,2024-05-27,premium,Moscow
+683,2024-01-08,mass,Siberia
+684,2024-07-19,mass,Moscow
+685,2023-09-16,mass,Volga
+686,2024-10-17,mass,Saint Petersburg
+687,2024-04-15,mass,Moscow
+688,2023-01-12,premium,Siberia
+689,2023-11-26,premium,Moscow
+690,2023-12-24,mass,Saint Petersburg
+691,2024-02-12,premium,Siberia
+692,2024-10-29,mass,Volga
+693,2024-01-08,premium,Siberia
+694,2023-01-08,mass,Siberia
+695,2023-05-02,mass,Siberia
+696,2023-12-14,mass,Volga
+697,2024-11-06,premium,Moscow
+698,2023-03-31,mass,Moscow
+699,2024-10-09,mass,Moscow
+700,2024-11-28,mass,Moscow
+701,2023-11-12,mass,Siberia
+702,2023-06-27,mass,Siberia
+703,2024-06-23,mass,Siberia
+704,2023-02-10,premium,Moscow
+705,2024-12-04,mass,Siberia
+706,2024-05-16,mass,Moscow
+707,2023-05-25,mass,Siberia
+708,2023-07-20,premium,Siberia
+709,2024-12-24,premium,Moscow
+710,2024-04-05,mass,Moscow
+711,2024-07-11,mass,Moscow
+712,2024-06-30,mass,Volga
+713,2023-09-10,mass,Volga
+714,2024-01-25,premium,Siberia
+715,2024-08-16,mass,Moscow
+716,2023-09-13,mass,Saint Petersburg
+717,2024-12-09,mass,Siberia
+718,2024-03-25,premium,Siberia
+719,2023-01-10,mass,Moscow
+720,2023-08-30,mass,Moscow
+721,2023-09-08,mass,Siberia
+722,2023-01-05,premium,Saint Petersburg
+723,2023-04-29,mass,Moscow
+724,2024-01-09,mass,Moscow
+725,2023-03-06,mass,Saint Petersburg
+726,2023-05-26,mass,Volga
+727,2023-08-12,mass,Volga
+728,2023-08-27,mass,Siberia
+729,2023-06-26,mass,Saint Petersburg
+730,2023-10-09,mass,Moscow
+731,2023-03-04,mass,Saint Petersburg
+732,2023-08-05,premium,Saint Petersburg
+733,2024-11-19,mass,Siberia
+734,2024-04-05,premium,Saint Petersburg
+735,2024-09-01,mass,Moscow
+736,2023-04-15,mass,Moscow
+737,2023-04-09,mass,Moscow
+738,2024-05-25,mass,Moscow
+739,2024-01-20,mass,Moscow
+740,2024-02-09,mass,Volga
+741,2024-06-01,mass,Saint Petersburg
+742,2024-04-20,premium,Saint Petersburg
+743,2024-12-09,mass,Volga
+744,2024-10-06,premium,Volga
+745,2024-03-12,mass,Siberia
+746,2023-01-23,mass,Volga
+747,2024-07-18,mass,Moscow
+748,2024-11-07,mass,Moscow
+749,2024-12-14,mass,Saint Petersburg
+750,2024-04-02,mass,Siberia
+751,2023-03-24,mass,Siberia
+752,2023-05-25,mass,Moscow
+753,2023-03-26,mass,Moscow
+754,2023-03-19,premium,Siberia
+755,2024-04-01,premium,Moscow
+756,2023-01-01,mass,Siberia
+757,2023-02-20,mass,Siberia
+758,2024-11-15,mass,Siberia
+759,2024-12-17,mass,Siberia
+760,2024-03-21,premium,Volga
+761,2024-03-24,mass,Saint Petersburg
+762,2024-05-02,mass,Siberia
+763,2023-02-03,mass,Siberia
+764,2023-12-14,mass,Moscow
+765,2023-04-05,mass,Moscow
+766,2023-03-13,premium,Moscow
+767,2024-07-04,mass,Saint Petersburg
+768,2023-06-03,mass,Siberia
+769,2023-09-07,premium,Volga
+770,2024-11-04,mass,Moscow
+771,2024-03-13,mass,Moscow
+772,2023-04-28,mass,Volga
+773,2023-11-02,mass,Moscow
+774,2023-09-25,premium,Saint Petersburg
+775,2023-02-23,mass,Siberia
+776,2023-08-24,premium,Saint Petersburg
+777,2024-01-24,mass,Moscow
+778,2024-02-05,premium,Moscow
+779,2024-09-15,mass,Moscow
+780,2023-10-30,premium,Siberia
+781,2023-07-26,mass,Saint Petersburg
+782,2023-08-17,premium,Moscow
+783,2024-07-31,mass,Siberia
+784,2023-03-16,mass,Volga
+785,2024-03-10,premium,Moscow
+786,2023-04-13,mass,Saint Petersburg
+787,2024-02-26,premium,Siberia
+788,2024-12-04,mass,Moscow
+789,2023-11-02,mass,Moscow
+790,2023-04-08,mass,Siberia
+791,2023-12-01,mass,Volga
+792,2024-03-10,mass,Volga
+793,2024-03-22,mass,Siberia
+794,2023-11-04,mass,Siberia
+795,2023-09-06,mass,Saint Petersburg
+796,2023-06-15,mass,Siberia
+797,2024-04-25,mass,Saint Petersburg
+798,2023-12-01,mass,Moscow
+799,2024-06-25,mass,Siberia
+800,2023-04-16,mass,Siberia
+801,2024-07-16,premium,Saint Petersburg
+802,2023-03-22,premium,Volga
+803,2023-05-13,mass,Moscow
+804,2023-05-18,mass,Moscow
+805,2023-07-03,premium,Moscow
+806,2024-02-05,mass,Siberia
+807,2023-11-26,mass,Siberia
+808,2024-05-22,mass,Moscow
+809,2023-03-10,mass,Siberia
+810,2024-06-29,mass,Saint Petersburg
+811,2023-02-22,mass,Siberia
+812,2024-03-25,premium,Saint Petersburg
+813,2023-07-24,premium,Saint Petersburg
+814,2023-05-06,mass,Volga
+815,2023-02-12,mass,Moscow
+816,2023-04-21,premium,Moscow
+817,2024-10-24,mass,Siberia
+818,2023-07-02,mass,Volga
+819,2023-04-05,mass,Saint Petersburg
+820,2024-01-09,premium,Moscow
+821,2024-06-03,mass,Moscow
+822,2023-12-26,premium,Saint Petersburg
+823,2024-11-26,premium,Moscow
+824,2023-10-08,mass,Siberia
+825,2023-07-14,mass,Volga
+826,2023-07-14,mass,Saint Petersburg
+827,2024-10-28,mass,Saint Petersburg
+828,2023-04-03,mass,Saint Petersburg
+829,2024-11-02,mass,Moscow
+830,2023-03-02,mass,Volga
+831,2024-09-25,premium,Saint Petersburg
+832,2023-02-20,mass,Saint Petersburg
+833,2024-02-07,mass,Siberia
+834,2023-01-05,mass,Saint Petersburg
+835,2024-04-10,mass,Siberia
+836,2024-08-26,mass,Moscow
+837,2024-11-12,mass,Volga
+838,2024-06-17,mass,Volga
+839,2024-02-09,mass,Siberia
+840,2024-05-27,mass,Volga
+841,2024-10-06,mass,Moscow
+842,2023-08-21,mass,Saint Petersburg
+843,2024-06-07,premium,Siberia
+844,2023-12-12,mass,Siberia
+845,2023-02-15,mass,Saint Petersburg
+846,2024-06-29,mass,Moscow
+847,2023-03-19,mass,Moscow
+848,2024-12-30,mass,Saint Petersburg
+849,2023-03-14,mass,Moscow
+850,2023-09-06,mass,Siberia
+851,2023-02-16,mass,Moscow
+852,2023-05-01,mass,Moscow
+853,2023-08-02,mass,Siberia
+854,2023-08-27,mass,Siberia
+855,2023-02-25,premium,Volga
+856,2023-12-16,mass,Siberia
+857,2023-04-17,mass,Moscow
+858,2023-02-17,mass,Volga
+859,2024-07-26,mass,Saint Petersburg
+860,2023-12-03,mass,Moscow
+861,2023-01-26,mass,Siberia
+862,2023-09-14,mass,Volga
+863,2023-01-08,mass,Saint Petersburg
+864,2024-09-16,mass,Moscow
+865,2023-09-10,mass,Moscow
+866,2024-11-22,mass,Moscow
+867,2024-12-19,mass,Saint Petersburg
+868,2023-10-30,mass,Siberia
+869,2024-09-30,premium,Moscow
+870,2023-02-25,mass,Volga
+871,2024-12-26,mass,Siberia
+872,2024-06-09,mass,Siberia
+873,2024-04-18,premium,Volga
+874,2023-01-28,mass,Moscow
+875,2023-03-19,mass,Saint Petersburg
+876,2023-08-04,mass,Siberia
+877,2024-01-21,mass,Volga
+878,2023-12-31,mass,Siberia
+879,2024-10-27,mass,Moscow
+880,2024-06-09,premium,Volga
+881,2024-11-29,mass,Moscow
+882,2023-11-08,mass,Volga
+883,2023-01-07,premium,Volga
+884,2023-01-03,mass,Moscow
+885,2024-09-14,mass,Siberia
+886,2023-12-29,mass,Moscow
+887,2024-05-22,mass,Saint Petersburg
+888,2023-10-01,mass,Saint Petersburg
+889,2024-05-20,premium,Siberia
+890,2023-01-15,mass,Volga
+891,2023-07-11,mass,Siberia
+892,2024-09-22,mass,Saint Petersburg
+893,2024-04-29,premium,Volga
+894,2023-01-28,premium,Volga
+895,2024-12-14,premium,Moscow
+896,2023-02-08,mass,Volga
+897,2023-09-30,mass,Moscow
+898,2023-08-19,mass,Volga
+899,2023-03-27,mass,Moscow
+900,2024-04-18,mass,Moscow
+901,2023-05-06,mass,Saint Petersburg
+902,2024-06-20,mass,Siberia
+903,2023-05-25,mass,Saint Petersburg
+904,2024-06-08,mass,Moscow
+905,2023-07-31,mass,Siberia
+906,2023-01-25,mass,Volga
+907,2024-08-02,mass,Saint Petersburg
+908,2024-01-29,mass,Moscow
+909,2023-03-08,mass,Saint Petersburg
+910,2023-08-21,mass,Moscow
+911,2023-04-19,mass,Volga
+912,2023-05-26,mass,Volga
+913,2023-04-21,premium,Siberia
+914,2023-08-16,mass,Saint Petersburg
+915,2023-04-21,mass,Siberia
+916,2024-04-14,mass,Siberia
+917,2023-02-03,mass,Volga
+918,2024-09-14,mass,Siberia
+919,2024-01-04,mass,Siberia
+920,2024-08-17,premium,Siberia
+921,2024-07-07,mass,Saint Petersburg
+922,2024-02-29,premium,Volga
+923,2024-09-04,mass,Saint Petersburg
+924,2024-06-01,mass,Siberia
+925,2024-11-22,premium,Moscow
+926,2023-10-09,mass,Siberia
+927,2023-11-16,mass,Siberia
+928,2024-03-18,mass,Moscow
+929,2023-11-11,mass,Moscow
+930,2024-01-12,mass,Siberia
+931,2023-10-16,mass,Siberia
+932,2024-03-12,mass,Saint Petersburg
+933,2024-10-23,mass,Moscow
+934,2023-10-04,mass,Siberia
+935,2024-12-10,mass,Moscow
+936,2024-08-04,mass,Saint Petersburg
+937,2024-05-17,mass,Moscow
+938,2024-09-15,mass,Moscow
+939,2024-05-30,mass,Moscow
+940,2023-12-16,premium,Saint Petersburg
+941,2024-03-21,mass,Moscow
+942,2023-12-16,mass,Saint Petersburg
+943,2024-08-29,mass,Saint Petersburg
+944,2024-10-25,mass,Saint Petersburg
+945,2023-05-17,mass,Saint Petersburg
+946,2023-08-31,mass,Volga
+947,2024-06-26,mass,Moscow
+948,2023-02-09,mass,Saint Petersburg
+949,2023-08-17,premium,Moscow
+950,2024-07-01,premium,Moscow
+951,2023-08-11,premium,Siberia
+952,2023-01-06,mass,Siberia
+953,2023-11-18,mass,Volga
+954,2024-04-12,mass,Siberia
+955,2023-03-16,mass,Volga
+956,2023-01-04,mass,Moscow
+957,2024-10-07,mass,Moscow
+958,2023-04-28,mass,Moscow
+959,2024-08-28,mass,Moscow
+960,2024-05-18,mass,Saint Petersburg
+961,2024-07-27,mass,Siberia
+962,2024-03-16,mass,Moscow
+963,2023-07-13,premium,Volga
+964,2024-12-15,mass,Volga
+965,2024-01-27,mass,Moscow
+966,2023-01-26,mass,Moscow
+967,2024-03-10,mass,Moscow
+968,2023-06-22,mass,Moscow
+969,2023-10-27,mass,Moscow
+970,2024-10-06,mass,Saint Petersburg
+971,2023-11-22,mass,Moscow
+972,2024-02-14,mass,Saint Petersburg
+973,2023-04-28,mass,Volga
+974,2024-12-24,mass,Siberia
+975,2023-08-13,mass,Volga
+976,2024-06-15,mass,Moscow
+977,2023-04-23,premium,Saint Petersburg
+978,2023-05-20,mass,Siberia
+979,2024-07-12,mass,Moscow
+980,2023-01-01,mass,Moscow
+981,2023-03-31,mass,Siberia
+982,2024-10-15,mass,Siberia
+983,2023-11-16,mass,Saint Petersburg
+984,2024-07-03,premium,Saint Petersburg
+985,2023-05-19,mass,Saint Petersburg
+986,2024-05-25,mass,Moscow
+987,2023-09-16,mass,Moscow
+988,2024-11-03,mass,Moscow
+989,2024-11-20,mass,Moscow
+990,2023-01-10,mass,Volga
+991,2023-09-18,mass,Siberia
+992,2024-10-11,mass,Siberia
+993,2023-06-21,mass,Moscow
+994,2023-01-13,premium,Saint Petersburg
+995,2023-06-17,mass,Moscow
+996,2024-10-03,premium,Moscow
+997,2024-08-18,mass,Moscow
+998,2023-11-17,premium,Siberia
+999,2023-11-15,mass,Siberia
+1000,2024-09-04,premium,Saint Petersburg
+1001,2023-11-25,premium,Saint Petersburg
+1002,2024-07-03,mass,Volga
+1003,2024-02-23,premium,Moscow
+1004,2024-08-28,mass,Moscow
+1005,2023-04-05,mass,Moscow
+1006,2024-08-03,mass,Siberia
+1007,2023-11-14,mass,Volga
+1008,2023-08-24,mass,Moscow
+1009,2023-11-30,mass,Volga
+1010,2024-01-11,mass,Volga
+1011,2024-04-03,mass,Moscow
+1012,2023-05-17,premium,Saint Petersburg
+1013,2024-08-10,mass,Saint Petersburg
+1014,2024-06-30,mass,Volga
+1015,2024-05-27,mass,Moscow
+1016,2023-10-23,mass,Siberia
+1017,2023-11-16,mass,Moscow
+1018,2024-07-25,mass,Siberia
+1019,2023-12-15,mass,Saint Petersburg
+1020,2023-08-17,premium,Siberia
+1021,2023-09-27,mass,Volga
+1022,2023-10-18,mass,Volga
+1023,2024-12-25,mass,Volga
+1024,2023-06-14,mass,Moscow
+1025,2023-01-05,mass,Siberia
+1026,2024-01-14,mass,Moscow
+1027,2023-03-19,mass,Saint Petersburg
+1028,2024-02-14,mass,Saint Petersburg
+1029,2024-07-27,premium,Saint Petersburg
+1030,2023-05-12,premium,Saint Petersburg
+1031,2024-08-23,mass,Volga
+1032,2023-02-11,mass,Moscow
+1033,2023-03-30,mass,Siberia
+1034,2024-02-06,mass,Saint Petersburg
+1035,2023-10-23,mass,Moscow
+1036,2023-10-22,mass,Moscow
+1037,2024-09-07,mass,Volga
+1038,2024-06-09,mass,Volga
+1039,2024-11-21,mass,Volga
+1040,2024-09-28,premium,Volga
+1041,2024-02-26,premium,Moscow
+1042,2023-01-23,mass,Saint Petersburg
+1043,2024-07-28,mass,Siberia
+1044,2023-05-23,premium,Saint Petersburg
+1045,2024-10-26,mass,Saint Petersburg
+1046,2023-05-25,mass,Saint Petersburg
+1047,2023-08-13,mass,Siberia
+1048,2024-05-17,mass,Siberia
+1049,2024-09-07,mass,Moscow
+1050,2023-04-14,premium,Saint Petersburg
+1051,2023-02-08,premium,Siberia
+1052,2023-07-17,mass,Siberia
+1053,2024-10-07,mass,Moscow
+1054,2024-08-01,premium,Siberia
+1055,2024-01-26,mass,Moscow
+1056,2023-06-28,premium,Saint Petersburg
+1057,2024-07-07,mass,Siberia
+1058,2024-03-23,mass,Siberia
+1059,2024-05-14,mass,Moscow
+1060,2023-01-15,mass,Siberia
+1061,2024-09-14,mass,Siberia
+1062,2024-10-30,mass,Siberia
+1063,2023-10-16,mass,Siberia
+1064,2024-04-22,mass,Siberia
+1065,2023-08-19,mass,Saint Petersburg
+1066,2024-02-24,premium,Moscow
+1067,2023-06-06,premium,Moscow
+1068,2024-07-03,mass,Saint Petersburg
+1069,2024-03-16,premium,Siberia
+1070,2023-04-07,mass,Saint Petersburg
+1071,2024-02-15,mass,Moscow
+1072,2023-10-16,premium,Moscow
+1073,2023-09-11,mass,Saint Petersburg
+1074,2023-07-15,mass,Moscow
+1075,2024-08-20,premium,Siberia
+1076,2024-06-05,mass,Moscow
+1077,2024-05-31,premium,Siberia
+1078,2024-09-26,premium,Volga
+1079,2023-04-28,mass,Moscow
+1080,2023-06-08,premium,Saint Petersburg
+1081,2023-08-16,mass,Moscow
+1082,2023-08-04,mass,Siberia
+1083,2024-11-26,mass,Siberia
+1084,2023-01-15,premium,Saint Petersburg
+1085,2023-06-06,mass,Saint Petersburg
+1086,2024-10-09,mass,Volga
+1087,2023-09-18,mass,Moscow
+1088,2023-06-06,mass,Moscow
+1089,2023-02-16,mass,Volga
+1090,2023-11-20,mass,Siberia
+1091,2024-11-15,mass,Volga
+1092,2023-05-10,mass,Siberia
+1093,2024-02-15,premium,Volga
+1094,2023-04-05,mass,Saint Petersburg
+1095,2024-09-18,mass,Siberia
+1096,2023-10-19,premium,Volga
+1097,2023-10-10,mass,Siberia
+1098,2023-03-10,premium,Moscow
+1099,2024-10-21,mass,Moscow
+1100,2023-01-11,premium,Moscow
+1101,2023-09-11,mass,Moscow
+1102,2024-07-03,mass,Moscow
+1103,2023-05-14,mass,Siberia
+1104,2024-12-12,premium,Siberia
+1105,2023-01-23,mass,Saint Petersburg
+1106,2023-12-12,mass,Siberia
+1107,2023-10-29,mass,Moscow
+1108,2023-12-29,mass,Moscow
+1109,2024-01-31,mass,Moscow
+1110,2023-08-06,mass,Saint Petersburg
+1111,2023-05-21,premium,Moscow
+1112,2024-09-07,mass,Moscow
+1113,2023-07-29,mass,Saint Petersburg
+1114,2024-09-14,mass,Volga
+1115,2024-09-07,mass,Moscow
+1116,2024-11-13,mass,Siberia
+1117,2024-04-04,mass,Siberia
+1118,2023-12-22,mass,Siberia
+1119,2023-11-20,mass,Volga
+1120,2023-05-13,mass,Moscow
+1121,2023-05-07,premium,Moscow
+1122,2023-04-16,premium,Volga
+1123,2024-08-26,mass,Saint Petersburg
+1124,2024-01-13,premium,Siberia
+1125,2023-02-20,mass,Siberia
+1126,2023-01-29,mass,Siberia
+1127,2024-04-06,mass,Volga
+1128,2023-10-23,mass,Volga
+1129,2023-10-24,mass,Siberia
+1130,2024-12-26,mass,Moscow
+1131,2024-02-11,mass,Volga
+1132,2024-09-04,mass,Moscow
+1133,2024-02-09,mass,Moscow
+1134,2023-12-12,mass,Volga
+1135,2024-09-13,mass,Moscow
+1136,2024-02-24,mass,Moscow
+1137,2023-07-01,premium,Moscow
+1138,2023-01-01,premium,Volga
+1139,2024-07-20,mass,Saint Petersburg
+1140,2024-01-06,premium,Siberia
+1141,2024-10-22,mass,Moscow
+1142,2024-03-06,mass,Siberia
+1143,2023-11-05,mass,Siberia
+1144,2023-05-17,mass,Moscow
+1145,2023-07-21,premium,Saint Petersburg
+1146,2024-03-11,mass,Moscow
+1147,2023-11-09,mass,Volga
+1148,2023-04-27,mass,Siberia
+1149,2024-10-27,mass,Volga
+1150,2024-07-28,premium,Moscow
+1151,2023-09-01,mass,Siberia
+1152,2024-06-20,mass,Siberia
+1153,2024-08-24,mass,Siberia
+1154,2023-03-16,mass,Volga
+1155,2024-01-21,mass,Saint Petersburg
+1156,2023-07-29,mass,Moscow
+1157,2024-04-19,mass,Siberia
+1158,2024-02-22,mass,Siberia
+1159,2023-12-13,premium,Siberia
+1160,2024-06-12,premium,Moscow
+1161,2024-10-01,mass,Saint Petersburg
+1162,2023-06-28,mass,Moscow
+1163,2023-07-01,mass,Saint Petersburg
+1164,2024-10-25,mass,Siberia
+1165,2023-01-25,mass,Siberia
+1166,2023-06-29,mass,Moscow
+1167,2024-12-10,mass,Saint Petersburg
+1168,2024-05-15,mass,Moscow
+1169,2023-06-10,mass,Moscow
+1170,2023-06-26,mass,Siberia
+1171,2023-10-12,mass,Volga
+1172,2023-03-04,mass,Saint Petersburg
+1173,2024-10-23,mass,Siberia
+1174,2024-10-27,mass,Volga
+1175,2023-06-05,mass,Volga
+1176,2024-04-13,mass,Moscow
+1177,2023-02-18,mass,Volga
+1178,2023-03-25,mass,Saint Petersburg
+1179,2023-12-27,premium,Moscow
+1180,2024-11-19,mass,Moscow
+1181,2023-05-28,mass,Saint Petersburg
+1182,2024-09-21,mass,Moscow
+1183,2023-12-08,mass,Moscow
+1184,2024-04-20,mass,Moscow
+1185,2023-03-04,mass,Volga
+1186,2024-12-01,mass,Volga
+1187,2023-12-26,premium,Moscow
+1188,2024-07-14,mass,Volga
+1189,2023-11-23,mass,Volga
+1190,2023-05-21,premium,Siberia
+1191,2023-08-03,mass,Moscow
+1192,2024-03-10,premium,Siberia
+1193,2024-12-23,mass,Volga
+1194,2023-11-14,premium,Siberia
+1195,2023-02-01,mass,Moscow
+1196,2024-10-31,mass,Saint Petersburg
+1197,2023-10-12,mass,Siberia
+1198,2023-11-01,mass,Saint Petersburg
+1199,2024-03-04,mass,Moscow
+1200,2024-04-21,mass,Moscow
+1201,2023-10-13,mass,Volga
+1202,2023-05-24,mass,Volga
+1203,2024-02-28,mass,Moscow
+1204,2023-01-19,mass,Volga
+1205,2023-01-18,premium,Moscow
+1206,2024-08-12,mass,Siberia
+1207,2024-01-06,premium,Siberia
+1208,2023-06-24,mass,Volga
+1209,2023-07-13,mass,Volga
+1210,2024-05-16,mass,Moscow
+1211,2023-04-23,mass,Volga
+1212,2023-04-24,mass,Moscow
+1213,2023-08-10,mass,Siberia
+1214,2024-11-08,mass,Siberia
+1215,2024-10-05,premium,Siberia
+1216,2023-09-21,mass,Moscow
+1217,2023-02-24,mass,Volga
+1218,2024-10-04,mass,Moscow
+1219,2024-04-02,mass,Moscow
+1220,2023-06-11,mass,Siberia
+1221,2024-01-15,mass,Saint Petersburg
+1222,2023-03-28,mass,Volga
+1223,2023-02-24,mass,Saint Petersburg
+1224,2024-04-20,mass,Moscow
+1225,2023-06-27,premium,Volga
+1226,2024-01-26,premium,Saint Petersburg
+1227,2023-12-15,mass,Moscow
+1228,2023-01-08,mass,Siberia
+1229,2023-11-09,mass,Saint Petersburg
+1230,2024-03-18,premium,Siberia
+1231,2023-11-24,mass,Saint Petersburg
+1232,2023-02-23,mass,Volga
+1233,2023-08-27,mass,Volga
+1234,2023-08-17,mass,Siberia
+1235,2024-08-01,mass,Moscow
+1236,2023-02-20,mass,Volga
+1237,2024-08-31,mass,Siberia
+1238,2024-08-26,mass,Siberia
+1239,2023-09-21,mass,Saint Petersburg
+1240,2024-02-22,mass,Volga
+1241,2023-04-06,mass,Siberia
+1242,2023-03-29,mass,Moscow
+1243,2023-03-19,premium,Saint Petersburg
+1244,2023-10-15,mass,Volga
+1245,2023-04-30,mass,Moscow
+1246,2024-05-05,mass,Volga
+1247,2024-03-27,mass,Siberia
+1248,2024-05-14,mass,Siberia
+1249,2023-06-14,mass,Moscow
+1250,2023-07-01,premium,Moscow
+1251,2024-04-13,mass,Volga
+1252,2023-01-07,mass,Moscow
+1253,2023-11-26,mass,Siberia
+1254,2024-11-03,mass,Saint Petersburg
+1255,2023-05-31,mass,Moscow
+1256,2023-03-26,mass,Moscow
+1257,2023-05-27,mass,Saint Petersburg
+1258,2024-09-15,mass,Volga
+1259,2024-01-16,mass,Saint Petersburg
+1260,2024-07-01,mass,Saint Petersburg
+1261,2023-10-12,mass,Moscow
+1262,2024-11-30,mass,Saint Petersburg
+1263,2023-03-23,premium,Saint Petersburg
+1264,2024-05-28,mass,Volga
+1265,2024-12-09,mass,Saint Petersburg
+1266,2024-06-06,mass,Saint Petersburg
+1267,2024-01-21,mass,Moscow
+1268,2024-12-07,mass,Volga
+1269,2024-04-15,mass,Moscow
+1270,2023-04-29,premium,Moscow
+1271,2024-01-31,mass,Siberia
+1272,2024-06-15,mass,Siberia
+1273,2023-09-18,mass,Saint Petersburg
+1274,2023-09-13,premium,Saint Petersburg
+1275,2023-08-14,mass,Siberia
+1276,2023-02-22,mass,Moscow
+1277,2024-05-14,mass,Volga
+1278,2024-05-20,mass,Siberia
+1279,2023-12-30,mass,Saint Petersburg
+1280,2023-10-07,mass,Saint Petersburg
+1281,2024-08-15,mass,Moscow
+1282,2024-12-14,mass,Siberia
+1283,2023-06-07,mass,Saint Petersburg
+1284,2024-09-23,mass,Moscow
+1285,2023-02-28,mass,Siberia
+1286,2024-12-27,premium,Volga
+1287,2023-05-08,premium,Saint Petersburg
+1288,2024-12-21,mass,Volga
+1289,2023-04-25,premium,Moscow
+1290,2023-07-28,mass,Moscow
+1291,2024-06-09,mass,Moscow
+1292,2024-06-04,mass,Saint Petersburg
+1293,2024-07-05,mass,Moscow
+1294,2023-08-25,mass,Moscow
+1295,2023-10-08,mass,Volga
+1296,2023-12-25,mass,Volga
+1297,2023-07-20,mass,Siberia
+1298,2023-10-05,mass,Moscow
+1299,2023-08-23,mass,Moscow
+1300,2024-05-08,mass,Moscow
+1301,2023-01-04,mass,Siberia
+1302,2024-10-27,premium,Volga
+1303,2024-03-17,premium,Saint Petersburg
+1304,2023-01-29,mass,Moscow
+1305,2023-04-19,premium,Saint Petersburg
+1306,2024-09-01,mass,Moscow
+1307,2024-12-27,premium,Saint Petersburg
+1308,2023-03-16,mass,Siberia
+1309,2023-05-26,mass,Siberia
+1310,2023-05-08,mass,Moscow
+1311,2023-02-11,mass,Moscow
+1312,2023-12-22,mass,Volga
+1313,2023-02-10,mass,Moscow
+1314,2023-02-03,mass,Moscow
+1315,2023-01-17,mass,Moscow
+1316,2024-11-07,mass,Moscow
+1317,2023-06-02,premium,Saint Petersburg
+1318,2024-01-13,mass,Volga
+1319,2024-08-10,mass,Moscow
+1320,2024-08-21,mass,Saint Petersburg
+1321,2024-09-20,mass,Siberia
+1322,2023-12-08,mass,Saint Petersburg
+1323,2023-01-27,premium,Volga
+1324,2023-10-14,mass,Volga
+1325,2024-10-07,mass,Moscow
+1326,2023-06-17,premium,Siberia
+1327,2024-09-01,mass,Saint Petersburg
+1328,2023-09-25,mass,Volga
+1329,2024-03-30,mass,Saint Petersburg
+1330,2024-11-15,mass,Volga
+1331,2024-02-05,mass,Siberia
+1332,2024-04-20,mass,Moscow
+1333,2024-12-02,mass,Saint Petersburg
+1334,2024-09-25,premium,Volga
+1335,2024-07-11,mass,Volga
+1336,2024-07-29,mass,Moscow
+1337,2023-05-10,mass,Siberia
+1338,2023-12-29,mass,Moscow
+1339,2024-12-05,mass,Moscow
+1340,2024-11-23,mass,Saint Petersburg
+1341,2023-10-19,premium,Moscow
+1342,2024-01-06,mass,Volga
+1343,2023-01-29,mass,Moscow
+1344,2023-05-29,mass,Volga
+1345,2023-10-23,mass,Moscow
+1346,2023-01-11,mass,Moscow
+1347,2024-05-26,mass,Moscow
+1348,2024-11-06,mass,Moscow
+1349,2023-04-23,mass,Moscow
+1350,2023-07-06,premium,Moscow
+1351,2023-08-15,premium,Siberia
+1352,2023-11-06,mass,Moscow
+1353,2023-04-08,premium,Saint Petersburg
+1354,2023-02-24,mass,Saint Petersburg
+1355,2024-09-14,premium,Volga
+1356,2024-10-25,mass,Volga
+1357,2024-02-10,premium,Saint Petersburg
+1358,2023-03-10,premium,Moscow
+1359,2023-11-08,mass,Moscow
+1360,2023-10-16,premium,Volga
+1361,2024-07-01,mass,Moscow
+1362,2023-05-28,mass,Moscow
+1363,2024-04-11,mass,Moscow
+1364,2023-09-01,mass,Moscow
+1365,2024-05-05,mass,Moscow
+1366,2024-05-21,mass,Siberia
+1367,2023-12-31,premium,Moscow
+1368,2024-04-26,mass,Siberia
+1369,2023-07-20,mass,Moscow
+1370,2023-06-03,premium,Moscow
+1371,2024-03-25,premium,Volga
+1372,2024-05-15,premium,Moscow
+1373,2023-03-14,mass,Volga
+1374,2024-12-13,premium,Saint Petersburg
+1375,2023-10-23,mass,Moscow
+1376,2023-01-17,mass,Volga
+1377,2024-10-02,mass,Moscow
+1378,2023-08-05,mass,Volga
+1379,2023-03-02,mass,Moscow
+1380,2024-09-07,mass,Volga
+1381,2023-02-11,mass,Moscow
+1382,2023-01-25,mass,Saint Petersburg
+1383,2023-02-08,mass,Siberia
+1384,2023-05-11,mass,Volga
+1385,2024-05-12,mass,Volga
+1386,2023-08-17,mass,Volga
+1387,2023-04-18,mass,Volga
+1388,2023-06-21,mass,Moscow
+1389,2024-03-10,premium,Moscow
+1390,2024-04-22,mass,Moscow
+1391,2023-04-12,mass,Saint Petersburg
+1392,2024-06-07,mass,Saint Petersburg
+1393,2023-10-02,mass,Saint Petersburg
+1394,2024-09-04,premium,Moscow
+1395,2023-02-13,mass,Siberia
+1396,2023-01-17,mass,Moscow
+1397,2023-11-26,mass,Moscow
+1398,2024-07-22,mass,Saint Petersburg
+1399,2024-05-11,mass,Siberia
+1400,2023-01-12,mass,Siberia
+1401,2023-11-14,mass,Siberia
+1402,2024-08-14,mass,Moscow
+1403,2023-08-04,mass,Saint Petersburg
+1404,2023-12-05,premium,Moscow
+1405,2024-10-22,premium,Saint Petersburg
+1406,2023-03-22,mass,Saint Petersburg
+1407,2024-12-27,mass,Moscow
+1408,2024-04-29,mass,Moscow
+1409,2024-01-09,mass,Volga
+1410,2024-12-10,mass,Volga
+1411,2023-07-19,premium,Saint Petersburg
+1412,2024-06-20,premium,Moscow
+1413,2024-04-10,mass,Moscow
+1414,2023-03-30,mass,Saint Petersburg
+1415,2023-09-25,mass,Volga
+1416,2024-10-16,mass,Moscow
+1417,2024-07-24,mass,Siberia
+1418,2024-05-03,mass,Moscow
+1419,2024-06-21,mass,Volga
+1420,2023-02-16,mass,Saint Petersburg
+1421,2023-10-15,mass,Siberia
+1422,2023-01-16,premium,Moscow
+1423,2024-12-11,mass,Siberia
+1424,2024-02-05,mass,Moscow
+1425,2023-03-27,mass,Moscow
+1426,2023-09-07,mass,Volga
+1427,2024-01-26,mass,Volga
+1428,2023-12-01,mass,Volga
+1429,2024-09-20,premium,Siberia
+1430,2024-06-02,mass,Volga
+1431,2023-05-17,premium,Moscow
+1432,2024-11-18,mass,Moscow
+1433,2024-05-12,mass,Moscow
+1434,2024-12-27,mass,Siberia
+1435,2024-04-21,mass,Saint Petersburg
+1436,2024-08-16,mass,Moscow
+1437,2023-08-11,mass,Siberia
+1438,2024-01-07,mass,Volga
+1439,2024-02-06,premium,Saint Petersburg
+1440,2024-03-18,premium,Moscow
+1441,2024-05-04,premium,Moscow
+1442,2024-09-06,mass,Moscow
+1443,2023-09-30,mass,Moscow
+1444,2024-06-09,mass,Siberia
+1445,2023-06-08,mass,Siberia
+1446,2023-06-01,mass,Siberia
+1447,2024-09-11,mass,Saint Petersburg
+1448,2023-07-07,mass,Volga
+1449,2023-04-08,mass,Moscow
+1450,2023-05-11,premium,Saint Petersburg
+1451,2023-06-20,mass,Volga
+1452,2023-07-02,mass,Moscow
+1453,2023-12-30,mass,Moscow
+1454,2023-02-08,premium,Volga
+1455,2024-06-10,mass,Moscow
+1456,2024-05-11,mass,Siberia
+1457,2024-05-30,premium,Moscow
+1458,2023-12-15,premium,Siberia
+1459,2024-02-01,mass,Moscow
+1460,2024-12-22,mass,Moscow
+1461,2023-06-10,mass,Siberia
+1462,2023-01-16,mass,Moscow
+1463,2024-05-07,mass,Saint Petersburg
+1464,2024-03-01,premium,Moscow
+1465,2023-04-18,mass,Moscow
+1466,2024-03-25,mass,Moscow
+1467,2023-11-07,mass,Moscow
+1468,2023-06-19,mass,Volga
+1469,2024-06-29,mass,Moscow
+1470,2024-02-18,mass,Saint Petersburg
+1471,2023-09-08,mass,Moscow
+1472,2023-05-21,mass,Moscow
+1473,2023-10-01,mass,Volga
+1474,2024-02-20,mass,Moscow
+1475,2024-08-30,premium,Volga
+1476,2023-02-08,mass,Moscow
+1477,2023-01-29,mass,Siberia
+1478,2024-04-21,mass,Saint Petersburg
+1479,2023-11-14,mass,Volga
+1480,2023-09-02,mass,Siberia
+1481,2024-11-27,mass,Saint Petersburg
+1482,2023-09-29,premium,Moscow
+1483,2024-03-15,mass,Moscow
+1484,2023-08-27,mass,Volga
+1485,2024-01-12,mass,Moscow
+1486,2023-09-23,premium,Saint Petersburg
+1487,2023-12-25,mass,Siberia
+1488,2023-12-06,mass,Moscow
+1489,2024-01-24,mass,Volga
+1490,2024-07-30,mass,Siberia
+1491,2024-11-19,premium,Siberia
+1492,2023-01-03,mass,Volga
+1493,2024-03-04,mass,Moscow
+1494,2023-05-22,premium,Moscow
+1495,2024-01-11,premium,Saint Petersburg
+1496,2024-10-31,premium,Moscow
+1497,2023-11-20,mass,Siberia
+1498,2023-05-26,mass,Volga
+1499,2023-10-20,mass,Saint Petersburg
+1500,2024-10-26,mass,Moscow
+1501,2024-03-07,mass,Volga
+1502,2024-12-05,mass,Saint Petersburg
+1503,2024-08-07,mass,Saint Petersburg
+1504,2024-02-03,mass,Saint Petersburg
+1505,2023-12-10,mass,Volga
+1506,2023-05-20,mass,Siberia
+1507,2023-07-06,premium,Siberia
+1508,2023-03-02,mass,Volga
+1509,2024-01-15,mass,Moscow
+1510,2024-12-10,mass,Saint Petersburg
+1511,2024-03-15,mass,Volga
+1512,2023-11-15,mass,Saint Petersburg
+1513,2023-10-29,mass,Siberia
+1514,2023-12-10,mass,Volga
+1515,2023-01-11,mass,Siberia
+1516,2023-03-03,mass,Siberia
+1517,2023-08-14,mass,Volga
+1518,2023-06-02,premium,Volga
+1519,2024-12-11,premium,Saint Petersburg
+1520,2024-07-17,mass,Moscow
+1521,2024-07-24,mass,Saint Petersburg
+1522,2024-08-06,mass,Siberia
+1523,2024-10-21,premium,Saint Petersburg
+1524,2024-07-28,mass,Siberia
+1525,2023-11-06,mass,Saint Petersburg
+1526,2023-08-31,premium,Siberia
+1527,2024-05-07,mass,Moscow
+1528,2024-01-01,premium,Siberia
+1529,2023-11-26,mass,Saint Petersburg
+1530,2023-04-17,mass,Moscow
+1531,2023-08-14,mass,Moscow
+1532,2023-08-06,premium,Siberia
+1533,2024-05-20,premium,Saint Petersburg
+1534,2023-09-16,mass,Moscow
+1535,2024-05-31,mass,Volga
+1536,2023-02-23,mass,Siberia
+1537,2023-02-16,premium,Volga
+1538,2024-12-27,mass,Saint Petersburg
+1539,2024-11-19,mass,Saint Petersburg
+1540,2024-06-04,mass,Volga
+1541,2023-04-09,mass,Saint Petersburg
+1542,2023-01-20,mass,Siberia
+1543,2024-07-26,mass,Moscow
+1544,2024-05-04,mass,Saint Petersburg
+1545,2024-02-23,premium,Moscow
+1546,2024-11-20,mass,Moscow
+1547,2023-03-03,mass,Moscow
+1548,2023-05-25,premium,Moscow
+1549,2023-08-04,mass,Volga
+1550,2023-01-03,mass,Moscow
+1551,2023-06-09,mass,Siberia
+1552,2023-04-30,premium,Volga
+1553,2023-03-30,mass,Siberia
+1554,2023-11-25,premium,Moscow
+1555,2024-08-02,mass,Siberia
+1556,2023-12-23,mass,Siberia
+1557,2024-09-01,mass,Siberia
+1558,2023-09-24,premium,Siberia
+1559,2024-09-08,mass,Volga
+1560,2023-11-19,premium,Siberia
+1561,2024-09-26,mass,Moscow
+1562,2024-06-24,mass,Siberia
+1563,2024-10-10,mass,Moscow
+1564,2023-07-14,premium,Volga
+1565,2023-11-28,mass,Moscow
+1566,2023-06-19,mass,Moscow
+1567,2024-06-04,mass,Volga
+1568,2024-04-07,premium,Siberia
+1569,2023-02-09,mass,Saint Petersburg
+1570,2024-06-20,mass,Saint Petersburg
+1571,2023-09-18,mass,Volga
+1572,2024-01-30,mass,Moscow
+1573,2023-08-14,mass,Volga
+1574,2023-05-04,premium,Moscow
+1575,2023-02-07,premium,Siberia
+1576,2023-11-24,mass,Volga
+1577,2023-09-08,mass,Moscow
+1578,2023-06-25,mass,Saint Petersburg
+1579,2024-08-24,mass,Moscow
+1580,2024-03-29,mass,Siberia
+1581,2023-02-06,mass,Saint Petersburg
+1582,2023-11-12,mass,Siberia
+1583,2024-11-18,mass,Moscow
+1584,2024-08-15,mass,Moscow
+1585,2023-04-24,mass,Moscow
+1586,2023-02-09,mass,Moscow
+1587,2023-10-28,mass,Siberia
+1588,2023-08-12,mass,Volga
+1589,2023-11-14,mass,Siberia
+1590,2023-12-15,mass,Saint Petersburg
+1591,2023-04-25,mass,Volga
+1592,2024-11-28,mass,Siberia
+1593,2023-11-19,mass,Volga
+1594,2024-07-21,mass,Saint Petersburg
+1595,2023-02-09,premium,Moscow
+1596,2023-02-09,mass,Moscow
+1597,2023-10-16,mass,Siberia
+1598,2023-09-19,mass,Moscow
+1599,2023-08-04,mass,Moscow
+1600,2023-05-27,mass,Saint Petersburg
+1601,2023-12-02,mass,Siberia
+1602,2023-06-17,mass,Siberia
+1603,2023-04-02,mass,Moscow
+1604,2023-12-19,mass,Saint Petersburg
+1605,2024-07-24,mass,Siberia
+1606,2024-07-24,premium,Volga
+1607,2024-11-11,mass,Siberia
+1608,2023-12-29,mass,Volga
+1609,2024-07-10,mass,Siberia
+1610,2023-12-11,premium,Siberia
+1611,2024-11-23,mass,Moscow
+1612,2023-06-19,mass,Siberia
+1613,2023-12-22,mass,Siberia
+1614,2023-07-10,mass,Siberia
+1615,2024-10-28,mass,Saint Petersburg
+1616,2024-02-26,mass,Saint Petersburg
+1617,2024-11-30,mass,Moscow
+1618,2023-01-07,mass,Saint Petersburg
+1619,2023-05-13,mass,Moscow
+1620,2024-07-10,mass,Volga
+1621,2023-01-31,mass,Moscow
+1622,2024-06-18,mass,Moscow
+1623,2024-03-01,mass,Saint Petersburg
+1624,2024-01-29,premium,Siberia
+1625,2024-11-02,mass,Saint Petersburg
+1626,2023-12-29,mass,Moscow
+1627,2024-03-12,mass,Siberia
+1628,2024-10-31,premium,Moscow
+1629,2024-07-04,mass,Volga
+1630,2023-03-23,mass,Volga
+1631,2023-12-22,mass,Saint Petersburg
+1632,2023-09-15,mass,Moscow
+1633,2024-12-18,mass,Siberia
+1634,2024-08-11,mass,Moscow
+1635,2024-06-07,mass,Saint Petersburg
+1636,2023-10-22,premium,Moscow
+1637,2023-08-12,mass,Volga
+1638,2024-06-08,mass,Moscow
+1639,2023-02-15,mass,Siberia
+1640,2024-10-28,mass,Siberia
+1641,2023-04-23,mass,Saint Petersburg
+1642,2023-08-21,mass,Moscow
+1643,2023-01-17,mass,Volga
+1644,2023-12-26,premium,Saint Petersburg
+1645,2023-08-11,premium,Siberia
+1646,2024-11-30,mass,Moscow
+1647,2024-03-23,mass,Saint Petersburg
+1648,2023-12-31,premium,Saint Petersburg
+1649,2024-11-05,mass,Moscow
+1650,2023-11-22,premium,Moscow
+1651,2024-04-11,mass,Volga
+1652,2024-02-18,mass,Moscow
+1653,2024-03-30,mass,Moscow
+1654,2024-08-08,mass,Saint Petersburg
+1655,2023-08-21,mass,Siberia
+1656,2023-08-12,mass,Moscow
+1657,2024-02-16,mass,Siberia
+1658,2024-07-25,mass,Moscow
+1659,2023-12-01,mass,Moscow
+1660,2023-08-10,premium,Moscow
+1661,2023-02-06,mass,Volga
+1662,2023-10-05,premium,Moscow
+1663,2023-07-15,mass,Moscow
+1664,2024-04-28,mass,Saint Petersburg
+1665,2023-08-30,premium,Volga
+1666,2023-11-20,mass,Moscow
+1667,2023-07-11,mass,Saint Petersburg
+1668,2023-01-17,mass,Moscow
+1669,2024-06-07,mass,Saint Petersburg
+1670,2024-02-05,mass,Siberia
+1671,2024-12-05,premium,Siberia
+1672,2023-01-22,mass,Moscow
+1673,2024-04-18,mass,Moscow
+1674,2023-04-30,mass,Moscow
+1675,2023-07-29,mass,Saint Petersburg
+1676,2023-11-02,mass,Moscow
+1677,2023-09-27,mass,Siberia
+1678,2024-12-04,mass,Volga
+1679,2024-11-17,mass,Volga
+1680,2023-10-12,mass,Volga
+1681,2024-12-16,mass,Siberia
+1682,2024-11-06,mass,Siberia
+1683,2023-08-15,mass,Moscow
+1684,2024-01-16,premium,Siberia
+1685,2024-04-04,mass,Saint Petersburg
+1686,2023-01-07,mass,Saint Petersburg
+1687,2023-01-29,mass,Siberia
+1688,2023-02-02,mass,Moscow
+1689,2024-10-07,mass,Moscow
+1690,2023-03-20,mass,Volga
+1691,2024-04-03,mass,Moscow
+1692,2024-07-23,mass,Saint Petersburg
+1693,2024-06-21,mass,Volga
+1694,2024-04-26,mass,Siberia
+1695,2024-03-05,mass,Saint Petersburg
+1696,2023-10-12,mass,Moscow
+1697,2024-05-30,premium,Moscow
+1698,2023-04-09,premium,Volga
+1699,2024-02-01,premium,Siberia
+1700,2024-05-03,premium,Saint Petersburg
+1701,2023-02-08,premium,Moscow
+1702,2023-09-28,mass,Moscow
+1703,2023-06-06,mass,Volga
+1704,2023-03-16,mass,Saint Petersburg
+1705,2023-05-10,mass,Siberia
+1706,2024-11-17,mass,Moscow
+1707,2023-03-25,mass,Siberia
+1708,2023-01-22,mass,Volga
+1709,2024-04-03,mass,Siberia
+1710,2024-06-22,premium,Moscow
+1711,2024-12-07,mass,Siberia
+1712,2024-01-17,mass,Siberia
+1713,2024-03-15,mass,Saint Petersburg
+1714,2024-08-26,mass,Volga
+1715,2023-01-21,premium,Siberia
+1716,2023-10-30,mass,Volga
+1717,2023-03-25,mass,Siberia
+1718,2024-10-20,mass,Moscow
+1719,2024-03-28,mass,Moscow
+1720,2024-01-22,mass,Moscow
+1721,2024-05-21,mass,Volga
+1722,2023-09-14,mass,Siberia
+1723,2024-07-23,mass,Siberia
+1724,2024-06-10,mass,Moscow
+1725,2023-06-11,premium,Moscow
+1726,2023-06-12,mass,Siberia
+1727,2024-06-07,premium,Saint Petersburg
+1728,2023-09-28,mass,Moscow
+1729,2024-05-06,mass,Siberia
+1730,2023-07-27,mass,Moscow
+1731,2024-06-22,mass,Moscow
+1732,2024-08-06,mass,Saint Petersburg
+1733,2023-03-01,mass,Moscow
+1734,2024-03-05,mass,Volga
+1735,2024-10-18,premium,Moscow
+1736,2024-08-27,mass,Moscow
+1737,2023-11-05,mass,Moscow
+1738,2024-06-03,mass,Siberia
+1739,2024-08-13,mass,Saint Petersburg
+1740,2023-01-27,mass,Siberia
+1741,2024-11-16,mass,Moscow
+1742,2024-07-15,mass,Moscow
+1743,2023-07-18,mass,Saint Petersburg
+1744,2024-01-22,mass,Volga
+1745,2023-12-15,mass,Volga
+1746,2024-11-23,premium,Moscow
+1747,2024-06-19,premium,Saint Petersburg
+1748,2024-01-13,mass,Volga
+1749,2024-07-11,mass,Saint Petersburg
+1750,2024-06-10,mass,Volga
+1751,2023-06-02,mass,Moscow
+1752,2023-07-25,mass,Volga
+1753,2024-03-30,mass,Siberia
+1754,2023-09-30,mass,Volga
+1755,2023-08-24,mass,Siberia
+1756,2024-06-04,mass,Saint Petersburg
+1757,2024-11-08,premium,Volga
+1758,2024-12-26,mass,Moscow
+1759,2024-05-15,mass,Moscow
+1760,2023-04-27,premium,Siberia
+1761,2024-01-21,premium,Siberia
+1762,2023-12-10,mass,Volga
+1763,2024-08-06,mass,Moscow
+1764,2024-01-30,mass,Siberia
+1765,2023-03-05,premium,Siberia
+1766,2024-12-17,premium,Moscow
+1767,2024-12-21,mass,Saint Petersburg
+1768,2023-03-13,mass,Moscow
+1769,2023-10-01,mass,Moscow
+1770,2023-11-16,mass,Volga
+1771,2023-12-04,mass,Siberia
+1772,2024-01-01,premium,Siberia
+1773,2024-05-09,mass,Volga
+1774,2024-08-29,premium,Saint Petersburg
+1775,2023-06-15,premium,Volga
+1776,2024-06-27,mass,Saint Petersburg
+1777,2023-01-11,mass,Volga
+1778,2023-10-28,mass,Moscow
+1779,2024-12-29,mass,Volga
+1780,2023-04-12,mass,Moscow
+1781,2024-02-29,mass,Moscow
+1782,2024-01-27,mass,Siberia
+1783,2023-08-02,mass,Saint Petersburg
+1784,2024-11-21,mass,Siberia
+1785,2023-03-29,mass,Saint Petersburg
+1786,2024-07-06,mass,Siberia
+1787,2024-02-05,mass,Moscow
+1788,2024-08-10,mass,Moscow
+1789,2023-02-15,mass,Moscow
+1790,2024-11-02,mass,Saint Petersburg
+1791,2024-04-07,mass,Moscow
+1792,2024-08-14,mass,Saint Petersburg
+1793,2023-11-06,mass,Saint Petersburg
+1794,2023-03-27,premium,Moscow
+1795,2023-04-02,mass,Siberia
+1796,2024-10-21,mass,Volga
+1797,2024-11-03,mass,Moscow
+1798,2024-12-14,mass,Siberia
+1799,2023-08-30,mass,Siberia
+1800,2023-01-02,mass,Saint Petersburg
+1801,2023-08-13,mass,Siberia
+1802,2024-08-11,mass,Saint Petersburg
+1803,2023-04-26,mass,Saint Petersburg
+1804,2024-10-27,mass,Moscow
+1805,2023-04-13,mass,Siberia
+1806,2023-07-13,premium,Siberia
+1807,2023-06-15,mass,Moscow
+1808,2023-03-31,mass,Saint Petersburg
+1809,2024-11-16,mass,Volga
+1810,2023-05-02,mass,Saint Petersburg
+1811,2023-05-23,mass,Saint Petersburg
+1812,2023-04-16,mass,Volga
+1813,2024-03-03,mass,Siberia
+1814,2023-11-01,mass,Siberia
+1815,2023-11-13,mass,Siberia
+1816,2024-09-26,mass,Volga
+1817,2023-01-09,premium,Saint Petersburg
+1818,2023-03-14,mass,Saint Petersburg
+1819,2023-12-25,mass,Saint Petersburg
+1820,2023-08-11,mass,Volga
+1821,2024-02-20,mass,Siberia
+1822,2024-07-06,mass,Moscow
+1823,2024-01-05,mass,Volga
+1824,2024-12-16,mass,Saint Petersburg
+1825,2023-09-21,mass,Moscow
+1826,2024-11-20,mass,Saint Petersburg
+1827,2023-11-14,mass,Saint Petersburg
+1828,2023-03-25,premium,Volga
+1829,2023-11-14,mass,Moscow
+1830,2023-04-21,mass,Volga
+1831,2023-09-08,mass,Siberia
+1832,2024-01-18,mass,Moscow
+1833,2023-01-07,mass,Volga
+1834,2024-04-03,mass,Saint Petersburg
+1835,2023-03-25,mass,Moscow
+1836,2023-07-27,mass,Saint Petersburg
+1837,2024-01-25,mass,Volga
+1838,2023-11-10,mass,Moscow
+1839,2023-01-22,mass,Moscow
+1840,2024-02-14,mass,Moscow
+1841,2024-05-29,mass,Moscow
+1842,2023-05-07,mass,Siberia
+1843,2024-11-30,premium,Saint Petersburg
+1844,2023-01-14,premium,Moscow
+1845,2023-01-12,premium,Moscow
+1846,2023-03-28,mass,Moscow
+1847,2024-06-07,mass,Volga
+1848,2024-06-20,mass,Moscow
+1849,2023-10-28,mass,Volga
+1850,2023-08-31,mass,Saint Petersburg
+1851,2023-05-02,premium,Moscow
+1852,2023-05-27,premium,Volga
+1853,2024-07-20,mass,Saint Petersburg
+1854,2023-12-22,mass,Siberia
+1855,2024-11-15,mass,Volga
+1856,2024-09-22,premium,Moscow
+1857,2023-11-05,premium,Moscow
+1858,2024-11-25,mass,Siberia
+1859,2023-10-15,mass,Moscow
+1860,2023-11-03,premium,Moscow
+1861,2024-08-16,mass,Moscow
+1862,2024-12-23,mass,Moscow
+1863,2024-10-23,premium,Siberia
+1864,2024-07-02,mass,Moscow
+1865,2023-12-18,mass,Saint Petersburg
+1866,2023-11-08,mass,Siberia
+1867,2023-02-28,mass,Saint Petersburg
+1868,2024-10-04,premium,Moscow
+1869,2024-12-14,mass,Siberia
+1870,2023-02-04,premium,Moscow
+1871,2024-03-20,mass,Siberia
+1872,2023-04-03,mass,Volga
+1873,2023-07-26,mass,Saint Petersburg
+1874,2023-12-19,mass,Saint Petersburg
+1875,2023-11-28,mass,Saint Petersburg
+1876,2024-12-25,mass,Saint Petersburg
+1877,2023-06-08,mass,Volga
+1878,2023-01-24,mass,Volga
+1879,2024-02-08,mass,Moscow
+1880,2024-05-30,mass,Siberia
+1881,2023-12-30,mass,Volga
+1882,2024-01-17,mass,Volga
+1883,2024-06-15,mass,Saint Petersburg
+1884,2023-06-01,mass,Saint Petersburg
+1885,2024-07-15,mass,Moscow
+1886,2024-11-19,mass,Volga
+1887,2024-08-30,premium,Moscow
+1888,2024-09-08,mass,Siberia
+1889,2024-02-24,mass,Moscow
+1890,2023-09-07,mass,Moscow
+1891,2023-04-27,mass,Saint Petersburg
+1892,2024-05-26,mass,Volga
+1893,2024-07-31,mass,Moscow
+1894,2023-12-01,mass,Siberia
+1895,2024-02-22,premium,Moscow
+1896,2023-10-22,mass,Moscow
+1897,2024-01-06,mass,Saint Petersburg
+1898,2023-07-05,mass,Saint Petersburg
+1899,2023-09-03,mass,Moscow
+1900,2024-09-28,mass,Moscow
+1901,2023-09-25,mass,Moscow
+1902,2024-10-04,mass,Moscow
+1903,2023-08-25,premium,Volga
+1904,2024-06-13,mass,Volga
+1905,2024-07-05,premium,Moscow
+1906,2023-01-21,mass,Siberia
+1907,2024-06-03,mass,Volga
+1908,2023-04-10,mass,Moscow
+1909,2024-04-22,premium,Volga
+1910,2024-08-21,mass,Volga
+1911,2023-10-25,mass,Moscow
+1912,2024-06-09,mass,Moscow
+1913,2023-11-30,mass,Volga
+1914,2023-01-02,mass,Saint Petersburg
+1915,2024-01-10,mass,Moscow
+1916,2023-10-20,mass,Moscow
+1917,2024-07-06,mass,Saint Petersburg
+1918,2023-11-14,mass,Siberia
+1919,2024-05-16,mass,Siberia
+1920,2024-01-16,mass,Volga
+1921,2024-09-14,premium,Moscow
+1922,2023-01-14,mass,Saint Petersburg
+1923,2024-05-18,mass,Saint Petersburg
+1924,2023-08-19,mass,Saint Petersburg
+1925,2023-03-25,mass,Moscow
+1926,2023-05-10,mass,Volga
+1927,2023-05-25,premium,Volga
+1928,2023-01-28,mass,Saint Petersburg
+1929,2023-03-07,mass,Siberia
+1930,2023-06-12,mass,Moscow
+1931,2023-08-17,mass,Saint Petersburg
+1932,2023-09-18,mass,Siberia
+1933,2024-03-24,premium,Saint Petersburg
+1934,2024-02-28,mass,Volga
+1935,2024-04-04,mass,Siberia
+1936,2024-11-06,mass,Saint Petersburg
+1937,2023-10-28,mass,Siberia
+1938,2023-10-30,mass,Moscow
+1939,2023-10-14,mass,Saint Petersburg
+1940,2024-01-30,mass,Moscow
+1941,2023-01-10,mass,Saint Petersburg
+1942,2024-12-07,mass,Siberia
+1943,2024-09-21,premium,Saint Petersburg
+1944,2023-09-27,mass,Siberia
+1945,2024-08-14,mass,Siberia
+1946,2024-08-27,mass,Moscow
+1947,2023-12-27,mass,Volga
+1948,2023-09-14,mass,Moscow
+1949,2023-05-13,mass,Moscow
+1950,2023-10-03,mass,Saint Petersburg
+1951,2024-11-13,mass,Moscow
+1952,2024-05-27,mass,Moscow
+1953,2023-11-09,mass,Siberia
+1954,2024-07-29,premium,Saint Petersburg
+1955,2023-10-11,mass,Saint Petersburg
+1956,2023-05-01,mass,Volga
+1957,2023-04-17,mass,Siberia
+1958,2024-11-17,mass,Volga
+1959,2023-07-23,mass,Moscow
+1960,2023-06-14,premium,Siberia
+1961,2023-11-01,premium,Volga
+1962,2024-05-11,mass,Siberia
+1963,2024-09-23,premium,Siberia
+1964,2024-07-09,premium,Saint Petersburg
+1965,2023-06-05,premium,Moscow
+1966,2024-01-02,premium,Saint Petersburg
+1967,2024-12-19,mass,Saint Petersburg
+1968,2024-09-11,mass,Volga
+1969,2023-09-08,mass,Moscow
+1970,2023-11-30,mass,Volga
+1971,2024-10-03,premium,Volga
+1972,2024-05-25,mass,Moscow
+1973,2023-10-20,mass,Moscow
+1974,2023-01-20,premium,Volga
+1975,2023-10-09,premium,Volga
+1976,2023-01-01,premium,Saint Petersburg
+1977,2023-04-29,mass,Moscow
+1978,2023-02-04,mass,Saint Petersburg
+1979,2023-07-17,mass,Siberia
+1980,2024-04-29,mass,Moscow
+1981,2023-02-28,mass,Siberia
+1982,2023-06-10,mass,Moscow
+1983,2024-11-21,mass,Moscow
+1984,2023-07-25,mass,Saint Petersburg
+1985,2023-01-12,mass,Saint Petersburg
+1986,2024-05-04,mass,Moscow
+1987,2023-10-03,mass,Saint Petersburg
+1988,2024-11-23,mass,Moscow
+1989,2023-08-30,mass,Moscow
+1990,2023-08-04,mass,Moscow
+1991,2023-09-08,mass,Volga
+1992,2023-05-06,mass,Saint Petersburg
+1993,2023-08-05,premium,Saint Petersburg
+1994,2023-11-02,mass,Siberia
+1995,2023-07-04,mass,Volga
+1996,2023-02-08,mass,Moscow
+1997,2023-08-11,premium,Siberia
+1998,2023-07-03,mass,Siberia
+1999,2024-05-09,mass,Siberia
+2000,2024-03-02,premium,Moscow
