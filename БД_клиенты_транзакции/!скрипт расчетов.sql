@@ -8,6 +8,7 @@ WHERE status = 'success'
 GROUP BY month
 ORDER BY month;
 
+
 #ARPU (Average Revenue Per User) - за месяц
 SELECT 
 	DATE_FORMAT(transaction_date, '%Y-%m') AS month,
@@ -15,6 +16,7 @@ SELECT
 FROM transactions
 WHERE status = 'success'
 GROUP BY month;
+
 
 #выручка по продуктам
 SELECT
@@ -24,6 +26,7 @@ FROM transactions
 WHERE status = 'success'
 GROUP BY product_type;
 
+
 #сравнение сегментов 
 SELECT
 	c.segment AS segment,
@@ -32,6 +35,7 @@ SELECT
 FROM clients AS c JOIN transactions AS t ON c.client_id = t.client_id
 WHERE status = 'success'
 GROUP BY segment;
+
 
 #распределение продуктов по сегментам
 SELECT
@@ -43,3 +47,18 @@ FROM clients AS c JOIN transactions AS t ON c.client_id = t.client_id
 WHERE status = 'success'
 GROUP BY segment, product_type;
 
+
+#выручка топ 10 клиентов
+WITH ranked AS (
+    SELECT
+        client_id,
+        SUM(revenue) AS total_revenue,
+        NTILE(10) OVER (ORDER BY SUM(revenue) DESC) AS decile
+    FROM transactions
+    WHERE status = 'success'
+    GROUP BY client_id
+)
+SELECT
+    SUM(total_revenue) AS revenue_top_10
+FROM ranked
+WHERE decile = 1;
